@@ -1,0 +1,20 @@
+verbecc-java
+
+Java rewrite of the non-ML conjugation core of Verbecc by Brett Tolbert:
+https://github.com/bretttolbert/verbecc
+
+The Java library and migrated regression expectations are derived from Verbecc,
+which is distributed under the GNU Lesser General Public License, version 3.
+See LICENSE.txt and COPYING.
+
+The twelve XML files under src/main/resources/io/github/bretttolbert/verbecc/data/xml
+are verbatim copies from the sibling Python project. They retain their original
+copyright notices, author credits, and licenses. Their headers specify the GNU
+General Public License, version 2 or (at your option) any later version.
+See COPYING-DATA. Bundling these data files does not remove their GPL obligations.
+
+Credits include Pierre Sarrazin, Brett Tolbert, and the contributors identified
+in the individual XML file headers.
+
+The Gradle wrapper is from Gradle 9.2.1 and is licensed under the Apache License,
+version 2.0, as indicated in its scripts.

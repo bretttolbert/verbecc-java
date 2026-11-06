@@ -1,0 +1,298 @@
+ca	ser	indicatiu	present	all	jo sóc	tu ets	ell és	ella és	nosaltres som	vosaltres sou	ells són	elles són
+ca	ser	indicatiu	imperfet	all	jo era	tu eres	ell era	ella era	nosaltres érem	vosaltres éreu	ells eren	elles eren
+ca	ser	indicatiu	passat-simple	all	jo fui	tu fores	ell fou	ella fou	nosaltres fórem	vosaltres fóreu	ells foren	elles foren
+ca	ser	indicatiu	futur	all	jo seré	tu seràs	ell serà	ella serà	nosaltres serem	vosaltres sereu	ells seran	elles seran
+ca	ser	subjuntiu	present	all	jo sigui	tu siguis	ell sigui	ella sigui	nosaltres siguem	vosaltres sigueu	ells siguin	elles siguin
+ca	ser	subjuntiu	imperfet	all	jo fos	tu fossis	ell fos	ella fos	nosaltres fóssim	vosaltres fóssiu	ells fossin	elles fossin
+ca	ser	condicional	present	all	jo seria|jo fora	tu series|tu fores	ell seria|ell fora	ella seria|ella fora	nosaltres seríem|nosaltres fórem	vosaltres seríeu|vosaltres fóreu	ells serien|ells foren	elles serien|elles foren
+ca	ser	imperatiu	imperatiu-present	all	sigues	sigui	sigui	siguem	sigueu	siguin	siguin
+ca	parlar	indicatiu	present	all	jo parlo	tu parles	ell parla	ella parla	nosaltres parlem	vosaltres parleu	ells parlen	elles parlen
+ca	parlar	indicatiu	imperfet	all	jo parlava	tu parlaves	ell parlava	ella parlava	nosaltres parlàvem	vosaltres parlàveu	ells parlaven	elles parlaven
+ca	parlar	indicatiu	passat-simple	all	jo parlí	tu parlares	ell parlà	ella parlà	nosaltres parlàrem	vosaltres parlàreu	ells parlaren	elles parlaren
+ca	parlar	indicatiu	futur	all	jo parlaré	tu parlaràs	ell parlarà	ella parlarà	nosaltres parlarem	vosaltres parlareu	ells parlaran	elles parlaran
+ca	parlar	subjuntiu	present	all	jo parli	tu parlis	ell parli	ella parli	nosaltres parlem	vosaltres parleu	ells parlin	elles parlin
+ca	parlar	subjuntiu	imperfet	all	jo parlés	tu parlessis	ell parlés	ella parlés	nosaltres parléssim	vosaltres parléssiu	ells parlessin	elles parlessin
+ca	parlar	condicional	present	all	jo parlaria	tu parlaries	ell parlaria	ella parlaria	nosaltres parlaríem	vosaltres parlaríeu	ells parlarien	elles parlarien
+ca	estar	indicatiu	present	all	jo estic	tu estàs	ell està	ella està	nosaltres estem	vosaltres esteu	ells estan	elles estan
+ca	estar	indicatiu	imperfet	all	jo estava	tu estaves	ell estava	ella estava	nosaltres estàvem	vosaltres estàveu	ells estaven	elles estaven
+ca	estar	indicatiu	passat-simple	all	jo estiguí	tu estigueres	ell estigué	ella estigué	nosaltres estiguérem	vosaltres estiguéreu	ells estigueren	elles estigueren
+ca	estar	indicatiu	futur	all	jo estaré	tu estaràs	ell estarà	ella estarà	nosaltres estarem	vosaltres estareu	ells estaran	elles estaran
+ca	estar	subjuntiu	present	all	jo estigui	tu estiguis	ell estigui	ella estigui	nosaltres estiguem	vosaltres estigueu	ells estiguin	elles estiguin
+ca	estar	subjuntiu	imperfet	all	jo estigués	tu estiguessis	ell estigués	ella estigués	nosaltres estiguéssim	vosaltres estiguéssiu	ells estiguessin	elles estiguessin
+ca	estar	condicional	present	all	jo estaria	tu estaries	ell estaria	ella estaria	nosaltres estaríem	vosaltres estaríeu	ells estarien	elles estarien
+ca	haver	indicatiu	present	all	jo he|jo haig	tu has	ell ha	ella ha	nosaltres havem|nosaltres hem	vosaltres haveu|vosaltres heu	ells han	elles han
+ca	haver	indicatiu	imperfet	all	jo havia	tu havies	ell havia	ella havia	nosaltres havíem	vosaltres havíeu	ells havien	elles havien
+ca	haver	indicatiu	passat-simple	all	jo haguí	tu hagueres	ell hagué	ella hagué	nosaltres haguérem	vosaltres haguéreu	ells hagueren	elles hagueren
+ca	haver	indicatiu	futur	all	jo hauré	tu hauràs	ell haurà	ella haurà	nosaltres haurem	vosaltres haureu	ells hauran	elles hauran
+ca	haver	condicional	present	all	jo hauria|jo haguera	tu hauries|tu hagueras	ell hauria|ell haguera	ella hauria|ella haguera	nosaltres hauríem|nosaltres haguérem	vosaltres hauríeu|vosaltres haguéreu	ells haurien|ells hagueren	elles haurien|elles hagueren
+ca	haver	subjuntiu	present	all	jo hagi	tu hagis	ell hagi	ella hagi	nosaltres hàgim|nosaltres haguem	vosaltres hàgiu|vosaltres hagueu	ells hagin	elles hagin
+ca	tenir	indicatiu	present	all	jo tinc	tu tens	ell té	ella té	nosaltres tenim	vosaltres teniu	ells tenen	elles tenen
+ca	fer	indicatiu	present	all	jo faig	tu fas	ell fa	ella fa	nosaltres fem	vosaltres feu	ells fan	elles fan
+ca	fer	indicatiu	imperfet	all	jo feia	tu feies	ell feia	ella feia	nosaltres fèiem	vosaltres fèieu	ells feien	elles feien
+ca	servir	indicatiu	present	all	jo serveixo	tu serveixes	ell serveix	ella serveix	nosaltres servim	vosaltres serviu	ells serveixen	elles serveixen
+ca	veure	indicatiu	present	all	jo veig	tu veus	ell veu	ella veu	nosaltres veiem	vosaltres veieu	ells veuen	elles veuen
+ca	abandonar	indicatiu	present	all	jo abandono	tu abandones	ell abandona	ella abandona	nosaltres abandonem	vosaltres abandoneu	ells abandonen	elles abandonen
+ca	rebre	indicatiu	present	all	jo rebo	tu reps	ell rep	ella rep	nosaltres rebem	vosaltres rebeu	ells reben	elles reben
+ca	cabre	indicatiu	present	all	jo cabo	tu caps	ell cap	ella cap	nosaltres cabem	vosaltres cabeu	ells caben	elles caben
+ca	començar	indicatiu	present	all	jo començo	tu comences	ell comença	ella comença	nosaltres comencem	vosaltres comenceu	ells comencen	elles comencen
+ca	enaiguar	indicatiu	present	all	jo enaiguo	tu enaigües	ell enaigua	ella enaigua	nosaltres enaigüem	vosaltres enaigüeu	ells enaigüen	elles enaigüen
+ca	envejar	indicatiu	present	all	jo envejo	tu enveges	ell enveja	ella enveja	nosaltres envegem	vosaltres envegeu	ells envegen	elles envegen
+ca	esglaiar	indicatiu	present	all	jo esglaio	tu esglaies	ell esglaia	ella esglaia	nosaltres esglaiem	vosaltres esglaieu	ells esglaien	elles esglaien
+ca	trencar	indicatiu	present	all	jo trenco	tu trenques	ell trenca	ella trenca	nosaltres trenquem	vosaltres trenqueu	ells trenquen	elles trenquen
+ca	perdre	indicatiu	present	all	jo perdo	tu perds	ell perd	ella perd	nosaltres perdem	vosaltres perdeu	ells perden	elles perden
+ca	caure	indicatiu	present	all	jo caic	tu caus	ell cau	ella cau	nosaltres caiem	vosaltres caieu	ells cauen	elles cauen
+ca	collar	indicatiu	present	all	jo collo	tu colles	ell colla	ella colla	nosaltres collem	vosaltres colleu	ells collen	elles collen
+ca	collir	indicatiu	present	all	jo cullo	tu culls	ell cull	ella cull	nosaltres collim	vosaltres colliu	ells cullen	elles cullen
+ca	dormir	indicatiu	present	all	jo dormo	tu dorms	ell dorm	ella dorm	nosaltres dormim	vosaltres dormiu	ells dormen	elles dormen
+ca	tossir	indicatiu	present	all	jo tusso	tu tusses	ell tus	ella tus	nosaltres tossim	vosaltres tossiu	ells tussen	elles tussen
+ca	collir	subjuntiu	present	all	jo culli	tu cullis	ell culli	ella culli	nosaltres collim	vosaltres colliu	ells cullin	elles cullin
+ca	dormir	subjuntiu	present	all	jo dormi	tu dormis	ell dormi	ella dormi	nosaltres dormim	vosaltres dormiu	ells dormin	elles dormin
+ca	tossir	subjuntiu	present	all	jo tussi	tu tussis	ell tussi	ella tussi	nosaltres tossim	vosaltres tossiu	ells tussin	elles tussin
+ca	dir	indicatiu	present	all	jo dic	tu dius	ell diu	ella diu	nosaltres diem	vosaltres dieu	ells diuen	elles diuen
+ca	anar	indicatiu	present	all	jo vaig	tu vas	ell va	ella va	nosaltres anem	vosaltres aneu	ells van	elles van
+ca	poder	indicatiu	present	all	jo puc	tu pots	ell pot	ella pot	nosaltres podem	vosaltres podeu	ells poden	elles poden
+ca	arribar	indicatiu	present	all	jo arribo	tu arribes	ell arriba	ella arriba	nosaltres arribem	vosaltres arribeu	ells arriben	elles arriben
+ca	trobar	indicatiu	present	all	jo trobo	tu trobes	ell troba	ella troba	nosaltres trobem	vosaltres trobeu	ells troben	elles troben
+ca	partir	indicatiu	present	all	jo parteixo	tu parteixes	ell parteix	ella parteix	nosaltres partim	vosaltres partiu	ells parteixen	elles parteixen
+ca	morir	indicatiu	present	all	jo moro	tu mors	ell mor	ella mor	nosaltres morim	vosaltres moriu	ells moren	elles moren
+ca	eixir	indicatiu	present	all	jo ixo|jo isc	tu ixes	ell ix	ella ix	nosaltres eixim	vosaltres eixiu	ells ixen	elles ixen
+ca	jaure	indicatiu	present	all	jo jec	tu jeus	ell jeu	ella jeu	nosaltres jaiem	vosaltres jaieu	ells jeuen	elles jeuen
+ca	jeure	indicatiu	present	all	jo jec	tu jeus	ell jeu	ella jeu	nosaltres jaiem	vosaltres jaieu	ells jeuen	elles jeuen
+ca	pagar	indicatiu	present	all	jo pago	tu pagues	ell paga	ella paga	nosaltres paguem	vosaltres pagueu	ells paguen	elles paguen
+ca	mentir	indicatiu	present	all	jo menteixo|jo mento	tu menteixes|tu ments	ell menteix|ell ment	ella menteix|ella ment	nosaltres mentim	vosaltres mentiu	ells menteixen|ells menten	elles menteixen|elles menten
+ca	desmentir	indicatiu	present	all	jo desmenteixo|jo desmento	tu desmenteixes|tu desments	ell desmenteix|ell desment	ella desmenteix|ella desment	nosaltres desmentim	vosaltres desmentiu	ells desmenteixen|ells desmenten	elles desmenteixen|elles desmenten
+ca	nàixer	indicatiu	present	all	jo naixo|jo neixo	tu naixes|tu neixes	ell naix|ell neix	ella naix|ella neix	nosaltres naixem	vosaltres naixeu	ells naixen|ells neixen	elles naixen|elles neixen
+ca	néixer	indicatiu	present	all	jo naixo|jo neixo	tu naixes|tu neixes	ell naix|ell neix	ella naix|ella neix	nosaltres naixem	vosaltres naixeu	ells naixen|ells neixen	elles naixen|elles neixen
+ca	obrir	indicatiu	present	all	jo obro	tu obres	ell obre	ella obre	nosaltres obrim	vosaltres obriu	ells obren	elles obren
+ca	riure	indicatiu	present	all	jo ric	tu rius	ell riu	ella riu	nosaltres riem	vosaltres rieu	ells riuen	elles riuen
+ca	pertànyer	indicatiu	present	all	jo pertanyo	tu pertanys	ell pertany	ella pertany	nosaltres pertanyem	vosaltres pertanyeu	ells pertanyen	elles pertanyen
+ca	pertànyer	indicatiu	passat-simple	all	jo pertanyí|jo pertanguí	tu pertanyeres|tu pertangueres	ell pertanyé|ell pertangué	ella pertanyé|ella pertangué	nosaltres pertanyérem|nosaltres pertanguérem	vosaltres pertanyéreu|vosaltres pertanguéreu	ells pertanyeren|ells pertanguéren	elles pertanyeren|elles pertanguéren
+ca	fènyer	indicatiu	present	all	jo fenyo	tu fenys	ell feny	ella feny	nosaltres fenyem	vosaltres fenyeu	ells fenyen	elles fenyen
+ca	córrer	indicatiu	present	all	jo corro	tu corres	ell corre	ella corre	nosaltres correm	vosaltres correu	ells corren	elles corren
+ca	transcórrer	indicatiu	present	all	jo transcorro	tu transcorres	ell transcorre	ella transcorre	nosaltres transcorrem	vosaltres transcorreu	ells transcorren	elles transcorren
+ca	imprimir	indicatiu	present	all	jo imprimeixo	tu imprimeixes	ell imprimeix	ella imprimeix	nosaltres imprimim	vosaltres imprimiu	ells imprimeixen	elles imprimeixen
+ca	vindre	indicatiu	present	all	jo vindo	tu vinds	ell vind	ella vind	nosaltres vindem	vosaltres vindeu	ells vinden	elles vinden
+ca	tòrcer	indicatiu	present	all	jo torço	tu torces	ell torça	ella torça	nosaltres torcem	vosaltres torceu	ells torcen	elles torcen
+ca	caldre	indicatiu	present	all	-	-	ell cal	ella cal	-	-	ells calen	elles calen
+ca	obeir	indicatiu	present	all	jo obeeixo	tu obeeixes	ell obeeix	ella obeeix	nosaltres obeïm	vosaltres obeïu	ells obeeixen	elles obeeixen
+ca	beneir	indicatiu	present	all	jo beneeixo	tu beneeixes	ell beneeix	ella beneeix	nosaltres beneïm	vosaltres beneïu	ells beneeixen	elles beneeixen
+ca	coldre	indicatiu	present	all	jo colc	tu cols	ell col	ella col	nosaltres colem	vosaltres coleu	ells colen	elles colen
+ca	dissoldre	indicatiu	present	all	jo dissolc	tu dissols	ell dissol	ella dissol	nosaltres dissolem	vosaltres dissoleu	ells dissolen	elles dissolen
+ca	percudir	indicatiu	present	all	jo percudeixo|jo percudo	tu percudeixes|tu percuts	ell percudeix|ell percut	ella percudeix|ella percut	nosaltres percudim	vosaltres percudiu	ells percudeixen|ells percuden	elles percudeixen|elles percuden
+ca	permetre	indicatiu	present	all	jo permeto	tu permets	ell permet	ella permet	nosaltres permetem	vosaltres permeteu	ells permeten	elles permeten
+ca	desconèixer	indicatiu	present	all	jo desconec	tu desconeixes	ell desconeix	ella desconeix	nosaltres desconeixem	vosaltres desconeixeu	ells desconeixen	elles desconeixen
+ca	desconèixer	indicatiu	passat-simple	all	jo desconeguí	tu desconegueres	ell desconegué	ella desconegué	nosaltres desconeguérem	vosaltres desconeguéreu	ells desconegueren	elles desconegueren
+ca	parèixer	indicatiu	present	all	jo parec	tu pareixes	ell pareix	ella pareix	nosaltres pareixem	vosaltres pareixeu	ells pareixen	elles pareixen
+ca	expendre	indicatiu	present	all	jo expenc	tu expens	ell expèn	ella expèn	nosaltres expenem	vosaltres expeneu	ells expenen	elles expenen
+ca	contendre	indicatiu	present	all	jo contenc	tu contens	ell contén	ella contén	nosaltres contenem	vosaltres conteneu	ells contenen	elles contenen
+ca	atènyer	indicatiu	present	all	jo atenyo	tu atenys	ell ateny	ella ateny	nosaltres atenyem	vosaltres atenyeu	ells atenyen	elles atenyen
+ca	descloure	indicatiu	present	all	jo descloc	tu desclous	ell desclou	ella desclou	nosaltres descloem	vosaltres descloeu	ells desclouen	elles desclouen
+ca	descloure	participi	participi	all	desclòs	desclosa	desclosos	descloses
+ca	cloure	indicatiu	present	all	jo cloc	tu clous	ell clou	ella clou	nosaltres cloem	vosaltres cloeu	ells clouen	elles clouen
+ca	abreviar	indicatiu	present	all	jo abrevio	tu abrevies	ell abrevia	ella abrevia	nosaltres abreviem	vosaltres abrevieu	ells abrevien	elles abrevien
+ca	abreviar	subjuntiu	present	all	jo abreviï	tu abreviïs	ell abreviï	ella abreviï	nosaltres abreviem	vosaltres abrevieu	ells abreviïn	elles abreviïn
+ca	abreviar	imperatiu	imperatiu-present	all	abrevia	abreviï	abreviï	abreviem	abrevieu	abreviïn	abreviïn
+ca	compondre	indicatiu	present	all	jo componc	tu compons	ell compon	ella compon	nosaltres componem	vosaltres componeu	ells componen	elles componen
+ca	contendre	indicatiu	present	all	jo contenc	tu contens	ell contén	ella contén	nosaltres contenem	vosaltres conteneu	ells contenen	elles contenen
+ca	complir	indicatiu	present	all	jo compleixo	tu compleixes	ell compleix	ella compleix	nosaltres complim	vosaltres compliu	ells compleixen	elles compleixen
+ca	establir	indicatiu	present	all	jo estableixo	tu estableixes	ell estableix	ella estableix	nosaltres establim	vosaltres establiu	ells estableixen	elles estableixen
+ca	complaure	indicatiu	present	all	jo complac	tu complaus	ell complau	ella complau	nosaltres complaem	vosaltres complaeu	ells complauen	elles complauen
+ca	desplaure	indicatiu	present	all	jo desplac	tu desplaus	ell desplau	ella desplau	nosaltres desplaem	vosaltres desplaeu	ells desplauen	elles desplauen
+ca	complaure	participi	participi	all	complagut	complaguda	complaguts	complagudes
+ca	acréixer	indicatiu	present	all	jo acreixo	tu acreixes	ell acreix	ella acreix	nosaltres acreixem	vosaltres acreixeu	ells acreixen	elles acreixen
+ca	acréixer	indicatiu	passat-simple	all	jo acreixí|jo acresquí	tu acreixeres|tu acresqueres	ell acreixé|ell acresqué	ella acreixé|ella acresqué	nosaltres acreixérem|nosaltres acresquérem	vosaltres acreixéreu|vosaltres acresquéreu	ells acreixeren|ells acresqueren	elles acreixeren|elles acresqueren
+ca	acréixer	subjuntiu	imperfet	all	jo acreixés|jo acresqués	tu acreixessis|tu acresquessis	ell acreixés|ell acresqués	ella acreixés|ella acresqués	nosaltres acreixéssim|nosaltres acresquéssim	vosaltres acreixéssiu|vosaltres acresquéssiu	ells acreixessin|ells acresquessin	elles acreixessin|elles acresquessin
+ca	merèixer	indicatiu	present	all	jo mereixo	tu mereixes	ell mereix	ella mereix	nosaltres mereixem	vosaltres mereixeu	ells mereixen	elles mereixen
+ca	confondre	indicatiu	present	all	jo confonc	tu confons	ell confon	ella confon	nosaltres confonem	vosaltres confoneu	ells confonen	elles confonen
+ca	consternar	indicatiu	present	all	jo consterno	tu consternes	ell consterna	ella consterna	nosaltres consternem	vosaltres consterneu	ells consternen	elles consternen
+ca	contradir	indicatiu	present	all	jo contradic	tu contradius	ell contradiu	ella contradiu	nosaltres contradiem	vosaltres contradieu	ells contradiuen	elles contradiuen
+ca	contradir	participi	participi	all	contradit	contradida	contradits	contradides
+ca	dir	participi	participi	all	dit	dita	dits	dites
+ca	creure	indicatiu	present	all	jo crec	tu creus	ell creu	ella creu	nosaltres creiem	vosaltres creieu	ells creuen	elles creuen
+ca	creure	indicatiu	futur	all	jo creuré	tu creuràs	ell creurà	ella creurà	nosaltres creurem	vosaltres creureu	ells creuran	elles creuran
+ca	dur	indicatiu	present	all	jo duc	tu duus|tu dus	ell duu|ell du	ella duu|ella du	nosaltres duem	vosaltres dueu	ells duen	elles duen
+ca	dur	imperatiu	imperatiu-present	all	duu|du	dugui	dugui	duguem	dueu	duguin	duguin
+ca	descosir	indicatiu	present	all	jo descuso	tu descuses	ell descús	ella descús	nosaltres descosim	vosaltres descosiu	ells descusen	elles descusen
+ca	descosir	subjuntiu	present	all	jo descusi	tu descusis	ell descusi	ella descusi	nosaltres descosim	vosaltres descosiu	ells descusin	elles descusin
+ca	descosir	imperatiu	imperatiu-present	all	descús	descusi	descusi	descosim	descosiu	descusin	descusin
+ca	valer	indicatiu	present	all	jo valc	tu vals	ell val	ella val	nosaltres valem	vosaltres valeu	ells valen	elles valen
+ca	valer	indicatiu	passat-simple	all	jo valguí	tu valgueres	ell valgué	ella valgué	nosaltres valguérem	vosaltres valguéreu	ells valgueren	elles valgueren
+ca	doldre	indicatiu	present	all	jo dolc	tu dols	ell dol	ella dol	nosaltres dolem	vosaltres doleu	ells dolen	elles dolen
+ca	entrelluir	indicatiu	present	all	jo entrelluo	tu entrelluus	ell entrelluu|ell entrellú	ella entrelluu|ella entrellú	nosaltres entrelluïm	vosaltres entrelluïu	ells entrelluen	elles entrelluen
+ca	entrelluir	indicatiu	present	all	jo entrelluo	tu entrelluus	ell entrelluu|ell entrellú	ella entrelluu|ella entrellú	nosaltres entrelluïm	vosaltres entrelluïu	ells entrelluen	elles entrelluen
+ca	entrelluir	indicatiu	imperfet	all	jo entrelluïa	tu entrelluïes	ell entrelluïa	ella entrelluïa	nosaltres entrelluíem	vosaltres entrelluíeu	ells entrelluïen	elles entrelluïen
+ca	entrelluir	imperatiu	imperatiu-present	all	entrelluu|entrellú	entrelluï	entrelluï	entrelluïm	entrelluïu	entrelluïn	entrelluïn
+ca	esglaiar	indicatiu	present	all	jo esglaio	tu esglaies	ell esglaia	ella esglaia	nosaltres esglaiem	vosaltres esglaieu	ells esglaien	elles esglaien
+ca	esglaiar	indicatiu	passat-simple	all	jo esglaí	tu esglaiares	ell esglaià	ella esglaià	nosaltres esglaiàrem	vosaltres esglaiàreu	ells esglaiaren	elles esglaiaren
+ca	esglaiar	subjuntiu	present	all	jo esglaï	tu esglaïs	ell esglaï	ella esglaï	nosaltres esglaiem	vosaltres esglaieu	ells esglaïn	elles esglaïn
+ca	esglaiar	imperatiu	imperatiu-present	all	esglaia	esglaï	esglaï	esglaiem	esglaieu	esglaïn	esglaïn
+ca	esglaiar	participi	participi	all	esglaiat	esglaiada	esglaiats	esglaiades
+ca	evacuar	indicatiu	present	all	jo evacuo	tu evacues	ell evacua	ella evacua	nosaltres evacuem	vosaltres evacueu	ells evacuen	elles evacuen
+ca	evacuar	subjuntiu	present	all	jo evacuï	tu evacuïs	ell evacuï	ella evacuï	nosaltres evacuem	vosaltres evacueu	ells evacuïn	elles evacuïn
+ca	evacuar	imperatiu	imperatiu-present	all	evacua	evacuï	evacuï	evacuem	evacueu	evacuïn	evacuïn
+ca	tondre	indicatiu	present	all	jo tonc	tu tons	ell ton	ella ton	nosaltres tonem	vosaltres toneu	ells tonen	elles tonen
+ca	fugir	indicatiu	present	all	jo fujo	tu fuges	ell fuig	ella fuig	nosaltres fugim	vosaltres fugiu	ells fugen	elles fugen
+ca	fugir	imperatiu	imperatiu-present	all	fuig	fugi	fugi	fugim	fugiu	fugin	fugin
+ca	imprimir	indicatiu	present	all	jo imprimeixo	tu imprimeixes	ell imprimeix	ella imprimeix	nosaltres imprimim	vosaltres imprimiu	ells imprimeixen	elles imprimeixen
+ca	imprimir	participi	participi	all	imprès	impresa	impresos	impreses
+ca	ajeure	indicatiu	present	all	jo ajec	tu ajeus	ell ajeu	ella ajeu	nosaltres ajaiem	vosaltres ajaieu	ells ajeuen	elles ajeuen
+ca	moldre	indicatiu	present	all	jo molc	tu mols	ell mol	ella mol	nosaltres molem	vosaltres moleu	ells molen	elles molen
+ca	malvendre	indicatiu	present	all	jo malvenc	tu malvens	ell malvèn	ella malvèn	nosaltres malvenem	vosaltres malveneu	ells malvenen	elles malvenen
+ca	malvendre	indicatiu	imperfet	all	jo malvenia	tu malvenies	ell malvenia	ella malvenia	nosaltres malveníem	vosaltres malveníeu	ells malvenien	elles malvenien
+ca	malvendre	indicatiu	passat-simple	all	jo malvenguí	tu malvengueres	ell malvengué	ella malvengué	nosaltres malvenguérem	vosaltres malvenguéreu	ells malvengueren	elles malvengueren
+ca	malvendre	subjuntiu	present	all	jo malvengui	tu malvenguis	ell malvengui	ella malvengui	nosaltres malvenguem	vosaltres malvengueu	ells malvenguin	elles malvenguin
+ca	malvendre	subjuntiu	imperfet	all	jo malvengués	tu malvenguessis	ell malvengués	ella malvengués	nosaltres malvenguéssim	vosaltres malvenguéssiu	ells malvenguessin	elles malvenguessin
+ca	omplir	indicatiu	present	all	jo omplo	tu omples	ell omple	ella omple	nosaltres omplim	vosaltres ompliu	ells omplen	elles omplen
+ca	omplir	participi	participi	all	omplert|omplit	omplerta|omplida	omplerts|omplits	omplertes|omplides
+ca	omplir	participi	participi	all	omplert|omplit	omplerta|omplida	omplerts|omplits	omplertes|omplides
+ca	omplir	imperatiu	imperatiu-present	all	omple	ompli	ompli	omplim	ompliu	omplin	omplin
+ca	moure	indicatiu	present	all	jo moc	tu mous	ell mou	ella mou	nosaltres movem	vosaltres moveu	ells mouen	elles mouen
+ca	moure	indicatiu	passat-simple	all	jo moguí	tu mogueres	ell mogué	ella mogué	nosaltres moguérem	vosaltres moguéreu	ells mogueren	elles mogueren
+ca	moure	indicatiu	imperfet	all	jo movia	tu movies	ell movia	ella movia	nosaltres movíem	vosaltres movíeu	ells movien	elles movien
+ca	absoldre	indicatiu	present	all	jo absolc	tu absols	ell absol	ella absol	nosaltres absolem	vosaltres absoleu	ells absolen	elles absolen
+ca	absoldre	participi	participi	all	absolt	absolta	absolts	absoltes
+ca	obrir	indicatiu	present	all	jo obro	tu obres	ell obre	ella obre	nosaltres obrim	vosaltres obriu	ells obren	elles obren
+ca	obrir	participi	participi	all	obert	oberta	oberts	obertes
+ca	prevenir	indicatiu	present	all	jo previnc	tu prevens	ell prevé	ella prevé	nosaltres prevenim	vosaltres preveniu	ells prevenen	elles prevenen
+ca	prevenir	indicatiu	passat-simple	all	jo previnguí	tu previngueres	ell previngué	ella previngué	nosaltres previnguérem	vosaltres previnguéreu	ells previngueren	elles previngueren
+ca	prevenir	indicatiu	imperfet	all	jo prevenia	tu prevenies	ell prevenia	ella prevenia	nosaltres preveníem	vosaltres preveníeu	ells prevenien	elles prevenien
+ca	prevenir	indicatiu	futur	all	jo previndré	tu previndràs	ell previndrà	ella previndrà	nosaltres previndrem	vosaltres previndreu	ells previndran	elles previndran
+ca	prevenir	subjuntiu	present	all	jo previngui	tu previnguis	ell previngui	ella previngui	nosaltres previnguem	vosaltres previngueu	ells previnguin	elles previnguin
+ca	prevenir	subjuntiu	imperfet	all	jo previngués	tu previnguessis	ell previngués	ella previngués	nosaltres previnguéssim	vosaltres previnguéssiu	ells previnguessin	elles previnguessin
+ca	prevenir	condicional	present	all	jo previndria	tu previndries	ell previndria	ella previndria	nosaltres previndríem	vosaltres previndríeu	ells previndrien	elles previndrien
+ca	prevenir	participi	participi	all	previngut	previnguda	previnguts	previngudes
+ca	prevenir	imperatiu	imperatiu-present	all	prevén	previngui	previngui	previnguem	preveniu	previnguin	previnguin
+ca	sortir	indicatiu	present	all	jo surto	tu surts	ell surt	ella surt	nosaltres sortim	vosaltres sortiu	ells surten	elles surten
+ca	sortir	subjuntiu	present	all	jo surti	tu surtis	ell surti	ella surti	nosaltres sortim	vosaltres sortiu	ells surtin	elles surtin
+ca	sortir	participi	participi	all	sortit	sortida	sortits	sortides
+ca	sortir	imperatiu	imperatiu-present	all	surt	surti	surti	sortim	sortiu	surtin	surtin
+ca	témer	indicatiu	present	all	jo temo	tu tems	ell tem	ella tem	nosaltres temem	vosaltres temeu	ells temen	elles temen
+ca	témer	infinitiu	infinitiu-present	all	témer
+ca	témer	gerundi	gerundi	all	tement
+ca	témer	participi	participi	all	temut	temuda	temuts	temudes
+ca	retraure	indicatiu	present	all	jo retrec	tu retreus	ell retreu	ella retreu	nosaltres retraiem	vosaltres retraieu	ells retreuen	elles retreuen
+ca	retraure	indicatiu	imperfet	all	jo retreia	tu retreies	ell retreia	ella retreia	nosaltres retrèiem	vosaltres retrèieu	ells retreien	elles retreien
+ca	retraure	indicatiu	passat-simple	all	jo retraguí	tu retragueres	ell retragué	ella retragué	nosaltres retraguérem	vosaltres retraguéreu	ells retragueren	elles retragueren
+ca	retraure	indicatiu	futur	all	jo retraué	tu retrauàs	ell retrauà	ella retrauà	nosaltres retrauem	vosaltres retraueu	ells retrauan	elles retrauan
+ca	retraure	condicional	present	all	jo retrauia	tu retrauies	ell retrauia	ella retrauia	nosaltres retrauíem	vosaltres retrauíeu	ells retrauien	elles retrauien
+ca	retraure	subjuntiu	present	all	jo retregui	tu retreguis	ell retregui	ella retregui	nosaltres retreguem	vosaltres retregueu	ells retreguin	elles retreguin
+ca	premorir	indicatiu	present	all	jo premoro	tu premors	ell premor	ella premor	nosaltres premorim	vosaltres premoriu	ells premoren	elles premoren
+ca	conviure	indicatiu	present	all	jo convisc	tu convius	ell conviu	ella conviu	nosaltres convivim	vosaltres conviviu	ells conviuen	elles conviuen
+ca	conviure	indicatiu	imperfet	all	jo convivia	tu convivies	ell convivia	ella convivia	nosaltres convivíem	vosaltres convivíeu	ells convivien	elles convivien
+ca	conviure	indicatiu	passat-simple	all	jo convisquí	tu convisqueres	ell convisqué	ella convisqué	nosaltres convisquérem	vosaltres convisquéreu	ells convisqueren	elles convisqueren
+ca	vèncer	indicatiu	present	all	jo venço	tu vences	ell venç	ella venç	nosaltres vencem	vosaltres venceu	ells vencen	elles vencen
+ca	vèncer	imperatiu	imperatiu-present	all	venç	venci	venci	vencem	venceu	vencin	vencin
+ca	vèncer	participi	participi	all	vençut	vençuda	vençuts	vençudes
+ca	vèncer	infinitiu	infinitiu-present	all	vèncer
+ca	vèncer	gerundi	gerundi	all	vencent
+ca	cerndre	indicatiu	present	all	jo cerno	tu cerns	ell cern	ella cern	nosaltres cernem	vosaltres cerneu	ells cernen	elles cernen
+ca	oir	indicatiu	present	all	jo oeixo	tu oeixes	ell oeix	ella oeix	nosaltres oïm	vosaltres oïu	ells oeixen	elles oeixen
+ca	oir	indicatiu	imperfet	all	jo oïa	tu oïes	ell oïa	ella oïa	nosaltres oíem	vosaltres oíeu	ells oïen	elles oïen
+ca	oir	indicatiu	passat-simple	all	jo oí	tu oïres	ell oí	ella oí	nosaltres oírem	vosaltres oíreu	ells oïren	elles oïren
+ca	oir	indicatiu	futur	all	jo oiré	tu oiràs	ell oirà	ella oirà	nosaltres oirem	vosaltres oireu	ells oiran	elles oiran
+ca	oir	subjuntiu	present	all	jo oeixi	tu oeixis	ell oeixi	ella oeixi	nosaltres oïm	vosaltres oïu	ells oeixin	elles oeixin
+ca	oir	subjuntiu	imperfet	all	jo oís	tu oïssis	ell oís	ella oís	nosaltres oíssim	vosaltres oíssiu	ells oïssin	elles oïssin
+ca	oir	condicional	present	all	jo oiria	tu oiries	ell oiria	ella oiria	nosaltres oiríem	vosaltres oiríeu	ells oirien	elles oirien
+ca	oir	participi	participi	all	oït	oïda	oïts	oïdes
+ca	oir	infinitiu	infinitiu-present	all	oir
+ca	oir	gerundi	gerundi	all	oint
+ca	oir	imperatiu	imperatiu-present	all	oeix	oeixi	oeixi	oïm	oïu	oeixin	oeixin
+es	abañar	indicativo	presente	first	yo abaño	tú abañas	vos abañás	él abaña	ella abaña	usted abaña	nosotros abañamos	vosotros abañáis	ellos abañan	ellas abañan	ustedes abañan
+es	estar	indicativo	presente	first	yo estoy	tú estás	vos estás	él está	ella está	usted está	nosotros estamos	vosotros estáis	ellos están	ellas están	ustedes están
+es	ser	indicativo	presente	first	yo soy	tú eres	vos sos	él es	ella es	usted es	nosotros somos	vosotros sois	ellos son	ellas son	ustedes son
+es	tener	indicativo	presente	first	yo tengo	tú tienes	vos tenés	él tiene	ella tiene	usted tiene	nosotros tenemos	vosotros tenéis	ellos tienen	ellas tienen	ustedes tienen
+es	haber	indicativo	presente	first	yo he	tú has	vos habés	él hay	ella hay	usted hay	nosotros hemos	vosotros habéis	ellos han	ellas han	ustedes han
+es	haber	indicativo	pretérito-imperfecto	first	yo había	tú habías	vos habías	él había	ella había	usted había	nosotros habíamos	vosotros habíais	ellos habían	ellas habían	ustedes habían
+es	haber	indicativo	pretérito-perfecto-simple	first	yo hube	tú hubiste	vos hubiste	él hubo	ella hubo	usted hubo	nosotros hubimos	vosotros hubisteis	ellos hubieron	ellas hubieron	ustedes hubieron
+es	haber	indicativo	futuro	first	yo habré	tú habrás	vos habrás	él habrá	ella habrá	usted habrá	nosotros habremos	vosotros habréis	ellos habrán	ellas habrán	ustedes habrán
+es	haber	condicional	presente	first	yo habría	tú habrías	vos habrías	él habría	ella habría	usted habría	nosotros habríamos	vosotros habríais	ellos habrían	ellas habrían	ustedes habrían
+es	haber	subjuntivo	presente	first	yo haya	tú hayas	vos hayas	él haya	ella haya	usted haya	nosotros hayamos	vosotros hayáis	ellos hayan	ellas hayan	ustedes hayan
+es	haber	subjuntivo	pretérito-imperfecto-1	first	yo hubiera	tú hubieras	vos hubieras	él hubiera	ella hubiera	usted hubiera	nosotros hubiéramos	vosotros hubierais	ellos hubieran	ellas hubieran	ustedes hubieran
+es	haber	subjuntivo	pretérito-imperfecto-2	first	yo hubiese	tú hubieses	vos hubieses	él hubiese	ella hubiese	usted hubiese	nosotros hubiésemos	vosotros hubieseis	ellos hubiesen	ellas hubiesen	ustedes hubiesen
+es	haber	subjuntivo	futuro	first	yo hubiere	tú hubieres	vos hubieres	él hubiere	ella hubiere	usted hubiere	nosotros hubiéremos	vosotros hubiereis	ellos hubieren	ellas hubieren	ustedes hubieren
+es	hacer	indicativo	presente	first	yo hago	tú haces	vos hacés	él hace	ella hace	usted hace	nosotros hacemos	vosotros hacéis	ellos hacen	ellas hacen	ustedes hacen
+es	ir	indicativo	presente	first	yo voy	tú vas	vos vás	él va	ella va	usted va	nosotros vamos	vosotros vais	ellos van	ellas van	ustedes van
+es	comer	indicativo	presente	first	yo como	tú comes	vos comés	él come	ella come	usted come	nosotros comemos	vosotros coméis	ellos comen	ellas comen	ustedes comen
+es	comer	indicativo	pretérito-perfecto-simple	first	yo comí	tú comiste	vos comiste	él comió	ella comió	usted comió	nosotros comimos	vosotros comisteis	ellos comieron	ellas comieron	ustedes comieron
+es	comer	indicativo	pretérito-imperfecto	first	yo comía	tú comías	vos comías	él comía	ella comía	usted comía	nosotros comíamos	vosotros comíais	ellos comían	ellas comían	ustedes comían
+es	comer	condicional	presente	first	yo comería	tú comerías	vos comerías	él comería	ella comería	usted comería	nosotros comeríamos	vosotros comeríais	ellos comerían	ellas comerían	ustedes comerían
+es	comer	indicativo	pretérito-perfecto-compuesto	first	yo he comido	tú has comido	vos habés comido	él ha comido	ella ha comido	usted ha comido	nosotros hemos comido	vosotros habéis comido	ellos han comido	ellas han comido	ustedes han comido
+es	comer	indicativo	pretérito-pluscuamperfecto	first	yo había comido	tú habías comido	vos habías comido	él había comido	ella había comido	usted había comido	nosotros habíamos comido	vosotros habíais comido	ellos habían comido	ellas habían comido	ustedes habían comido
+es	comer	indicativo	pretérito-anterior	first	yo hube comido	tú hubiste comido	vos hubiste comido	él hubo comido	ella hubo comido	usted hubo comido	nosotros hubimos comido	vosotros hubisteis comido	ellos hubieron comido	ellas hubieron comido	ustedes hubieron comido
+es	comer	indicativo	futuro-perfecto	first	yo habré comido	tú habrás comido	vos habrás comido	él habrá comido	ella habrá comido	usted habrá comido	nosotros habremos comido	vosotros habréis comido	ellos habrán comido	ellas habrán comido	ustedes habrán comido
+es	comer	condicional	perfecto	first	yo habría comido	tú habrías comido	vos habrías comido	él habría comido	ella habría comido	usted habría comido	nosotros habríamos comido	vosotros habríais comido	ellos habrían comido	ellas habrían comido	ustedes habrían comido
+es	comer	subjuntivo	pretérito-perfecto	first	yo haya comido	tú hayas comido	vos hayas comido	él haya comido	ella haya comido	usted haya comido	nosotros hayamos comido	vosotros hayáis comido	ellos hayan comido	ellas hayan comido	ustedes hayan comido
+es	comer	subjuntivo	pretérito-pluscuamperfecto-1	first	yo hubiera comido	tú hubieras comido	vos hubieras comido	él hubiera comido	ella hubiera comido	usted hubiera comido	nosotros hubiéramos comido	vosotros hubierais comido	ellos hubieran comido	ellas hubieran comido	ustedes hubieran comido
+es	comer	subjuntivo	pretérito-pluscuamperfecto-2	first	yo hubiese comido	tú hubieses comido	vos hubieses comido	él hubiese comido	ella hubiese comido	usted hubiese comido	nosotros hubiésemos comido	vosotros hubieseis comido	ellos hubiesen comido	ellas hubiesen comido	ustedes hubiesen comido
+es	comer	subjuntivo	futuro-perfecto	first	yo hubiere comido	tú hubieres comido	vos hubieres comido	él hubiere comido	ella hubiere comido	usted hubiere comido	nosotros hubiéremos comido	vosotros hubiereis comido	ellos hubieren comido	ellas hubieren comido	ustedes hubieren comido
+es	comer	imperativo	afirmativo	first	come	comé	coma	coma	coma	comamos	comed	coman	coman	coman
+es	comer	imperativo	negativo	first	no comas	no comas	no coma	no coma	no coma	no comamos	no comáis	no coman	no coman	no coman
+es	parecer	indicativo	presente	first	yo parezco	tú pareces	vos parecés	él parece	ella parece	usted parece	nosotros parecemos	vosotros parecéis	ellos parecen	ellas parecen	ustedes parecen
+es	parecer	indicativo	pretérito-imperfecto	first	yo parecía	tú parecías	vos parecías	él parecía	ella parecía	usted parecía	nosotros parecíamos	vosotros parecíais	ellos parecían	ellas parecían	ustedes parecían
+es	parecer	indicativo	pretérito-perfecto-simple	first	yo parecí	tú pareciste	vos pareciste	él pareció	ella pareció	usted pareció	nosotros parecimos	vosotros parecisteis	ellos parecieron	ellas parecieron	ustedes parecieron
+es	parecer	indicativo	futuro	first	yo pareceré	tú parecerás	vos parecerás	él parecerá	ella parecerá	usted parecerá	nosotros pareceremos	vosotros pareceréis	ellos parecerán	ellas parecerán	ustedes parecerán
+es	parecer	subjuntivo	presente	first	yo parezca	tú parezcas	vos parezcas	él parezca	ella parezca	usted parezca	nosotros parezcamos	vosotros parezcáis	ellos parezcan	ellas parezcan	ustedes parezcan
+es	parecer	subjuntivo	pretérito-imperfecto-1	first	yo pareciera	tú parecieras	vos parecieras	él pareciera	ella pareciera	usted pareciera	nosotros pareciéramos	vosotros parecierais	ellos parecieran	ellas parecieran	ustedes parecieran
+es	parecer	subjuntivo	pretérito-imperfecto-2	first	yo pareciese	tú parecieses	vos parecieses	él pareciese	ella pareciese	usted pareciese	nosotros pareciésemos	vosotros parecieseis	ellos pareciesen	ellas pareciesen	ustedes pareciesen
+es	parecer	subjuntivo	futuro	first	yo pareciere	tú parecieres	vos parecieres	él pareciere	ella pareciere	usted pareciere	nosotros pareciéremos	vosotros pareciereis	ellos parecieren	ellas parecieren	ustedes parecieren
+es	parecer	imperativo	afirmativo	first	parece	parecé	parezca	parezca	parezca	parezcamos	pareced	parezcan	parezcan	parezcan
+es	parecer	imperativo	negativo	first	no parezcas	no parezcas	no parezca	no parezca	no parezca	no parezcamos	no parezcáis	no parezcan	no parezcan	no parezcan
+es	parecer	condicional	presente	first	yo parecería	tú parecerías	vos parecerías	él parecería	ella parecería	usted parecería	nosotros pareceríamos	vosotros pareceríais	ellos parecerían	ellas parecerían	ustedes parecerían
+es	parecer	indicativo	pretérito-perfecto-compuesto	first	yo he parecido	tú has parecido	vos habés parecido	él ha parecido	ella ha parecido	usted ha parecido	nosotros hemos parecido	vosotros habéis parecido	ellos han parecido	ellas han parecido	ustedes han parecido
+es	abolir	indicativo	presente	first	yo abolo	tú aboles	vos abolís	él abole	ella abole	usted abole	nosotros abolimos	vosotros abolís	ellos abolen	ellas abolen	ustedes abolen
+es	abolir	subjuntivo	futuro	first	yo aboliere	tú abolieres	vos abolieres	él aboliere	ella aboliere	usted aboliere	nosotros aboliéremos	vosotros aboliereis	ellos abolieren	ellas abolieren	ustedes abolieren
+it	avere	indicativo	presente	first	io ho	tu hai	lui ha	lei ha	noi abbiamo	voi avete	loro hanno
+it	avere	indicativo	imperfetto	first	io avevo	tu avevi	lui aveva	lei aveva	noi avevamo	voi avevate	loro avevano
+it	avere	indicativo	passato-remoto	first	io ebbi	tu avesti	lui ebbe	lei ebbe	noi avemmo	voi aveste	loro ebbero
+it	avere	indicativo	futuro	first	io avrò	tu avrai	lui avrà	lei avrà	noi avremo	voi avrete	loro avranno
+pt	ter	indicativo	presente	first	eu tenho	tu tens	ele tem	ela tem	você tem	nós temos	vós tendes	eles têm	elas têm	vocês têm
+pt	ter	indicativo	pretérito-perfeito	first	eu tive	tu tiveste	ele teve	ela teve	você teve	nós tivemos	vós tivestes	eles tiveram	elas tiveram	vocês tiveram
+pt	ter	indicativo	pretérito-imperfeito	first	eu tinha	tu tinhas	ele tinha	ela tinha	você tinha	nós tínhamos	vós tínheis	eles tinham	elas tinham	vocês tinham
+pt	ter	indicativo	pretérito-mais-que-perfeito	first	eu tivera	tu tiveras	ele tivera	ela tivera	você tivera	nós tivéramos	vós tivéreis	eles tiveram	elas tiveram	vocês tiveram
+pt	ter	indicativo	pretérito-perfeito-composto	first	eu tenho tido	tu tens tido	ele tem tido	ela tem tido	você tem tido	nós temos tido	vós tendes tido	eles têm tido	elas têm tido	vocês têm tido
+pt	ter	indicativo	pretérito-mais-que-perfeito-composto	first	eu tinha tido	tu tinhas tido	ele tinha tido	ela tinha tido	você tinha tido	nós tínhamos tido	vós tínheis tido	eles tinham tido	elas tinham tido	vocês tinham tido
+pt	ter	indicativo	pretérito-mais-que-perfeito-anterior	first	eu tivera tido	tu tiveras tido	ele tivera tido	ela tivera tido	você tivera tido	nós tivéramos tido	vós tivéreis tido	eles tiveram tido	elas tiveram tido	vocês tiveram tido
+pt	ter	indicativo	futuro-do-presente	first	eu terei	tu terás	ele terá	ela terá	você terá	nós teremos	vós tereis	eles terão	elas terão	vocês terão
+pt	ter	indicativo	futuro-do-presente-composto	first	eu terei tido	tu terás tido	ele terá tido	ela terá tido	você terá tido	nós teremos tido	vós tereis tido	eles terão tido	elas terão tido	vocês terão tido
+pt	ter	subjuntivo	presente	first	que eu tenha	que tu tenhas	que ele tenha	que ela tenha	que você tenha	que nós tenhamos	que vós tenhais	que eles tenham	que elas tenham	que vocês tenham
+pt	ter	subjuntivo	pretérito-perfeito	first	eu tenha tido	tu tenhas tido	ele tenha tido	ela tenha tido	você tenha tido	nós tenhamos tido	vós tenhais tido	eles tenham tido	elas tenham tido	vocês tenham tido
+pt	ter	subjuntivo	pretérito-imperfeito	first	se eu tivesse	se tu tivesses	se ele tivesse	se ela tivesse	se você tivesse	se nós tivéssemos	se vós tivésseis	se eles tivessem	se elas tivessem	se vocês tivessem
+pt	ter	subjuntivo	pretérito-mais-que-perfeito	first	eu tivesse tido	tu tivesses tido	ele tivesse tido	ela tivesse tido	você tivesse tido	nós tivéssemos tido	vós tivésseis tido	eles tivessem tido	elas tivessem tido	vocês tivessem tido
+pt	ter	subjuntivo	futuro	first	quando eu tiver	quando tu tiveres	quando ele tiver	quando ela tiver	quando você tiver	quando nós tivermos	quando vós tiverdes	quando eles tiverem	quando elas tiverem	quando vocês tiverem
+pt	ter	subjuntivo	futuro-composto	first	eu tiver tido	tu tiveres tido	ele tiver tido	ela tiver tido	você tiver tido	nós tivermos tido	vós tiverdes tido	eles tiverem tido	elas tiverem tido	vocês tiverem tido
+pt	ter	condicional	futuro-do-pretérito	first	eu teria	tu terias	ele teria	ela teria	você teria	nós teríamos	vós teríeis	eles teriam	elas teriam	vocês teriam
+pt	ter	condicional	futuro-do-pretérito-composto	first	eu teria tido	tu terias tido	ele teria tido	ela teria tido	você teria tido	nós teríamos tido	vós teríeis tido	eles teriam tido	elas teriam tido	vocês teriam tido
+pt	ter	infinitivo	infinitivo-pessoal-presente	first	por ter eu	por teres tu	por ter ele	por ter ela	por ter você	por termos nós	por terdes vós	por terem eles	por terem elas	por terem vocês
+pt	ter	infinitivo	infinitivo-pessoal-composto	first	ter tido	teres tido	ter tido	ter tido	ter tido	termos tido	terdes tido	terem tido	terem tido	terem tido
+pt	ter	imperativo	afirmativo	first	-	tem tu	tenha você	tenhamos nós	tende vós	tenham vocês
+pt	ter	imperativo	negativo	first	-	não tenhas tu	não tenha você	não tenhamos nós	não tenhais vós	não tenham vocês
+pt	andar	indicativo	pretérito-perfeito	first	eu andei	tu andaste	ele andou	ela andou	você andou	nós andámos	vós andastes	eles andaram	elas andaram	vocês andaram
+pt	ficar	indicativo	pretérito-perfeito	first	eu fiquei	tu ficaste	ele ficou	ela ficou	você ficou	nós ficámos	vós ficastes	eles ficaram	elas ficaram	vocês ficaram
+pt	amar	indicativo	pretérito-perfeito	first	eu amei	tu amaste	ele amou	ela amou	você amou	nós amámos	vós amastes	eles amaram	elas amaram	vocês amaram
+pt	odiar	indicativo	pretérito-perfeito	first	eu odiei	tu odiaste	ele odiou	ela odiou	você odiou	nós odiámos	vós odiastes	eles odiaram	elas odiaram	vocês odiaram
+pt	arguir	indicativo	presente	first	eu arguo	tu argúis	ele argúi	ela argúi	você argúi	nós arguimos	vós arguistes	eles argúem	elas argúem	vocês argúem
+pt	arguir	indicativo	pretérito-perfeito	first	eu argui	tu arguiste	ele arguiu	ela arguiu	você arguiu	nós arguimos	vós arguistes	eles arguiram	elas arguiram	vocês arguiram
+pt	arguir	indicativo	pretérito-imperfeito	first	eu arguia	tu arguas	ele arguia	ela arguia	você arguia	nós arguíamos	vós arguíeis	eles arguiam	elas arguiam	vocês arguiam
+pt	arguir	indicativo	pretérito-mais-que-perfeito	first	eu arguira	tu arguiras	ele arguira	ela arguira	você arguira	nós arguíramos	vós arguíreis	eles arguiram	elas arguiram	vocês arguiram
+pt	arguir	indicativo	futuro-do-presente	first	eu arguirei	tu arguirás	ele arguirá	ela arguirá	você arguirá	nós arguiremos	vós arguireis	eles arguirão	elas arguirão	vocês arguirão
+pt	arguir	condicional	futuro-do-pretérito	first	eu arguiria	tu arguirias	ele arguiria	ela arguiria	você arguiria	nós arguiríamos	vós arguiríeis	eles arguiriam	elas arguiriam	vocês arguiriam
+pt	arguir	subjuntivo	pretérito-imperfeito	first	se eu arguisse	se tu arguisses	se ele arguisse	se ela arguisse	se você arguisse	se nós arguíssemos	se vós arguísseis	se eles arguissem	se elas arguissem	se vocês arguissem
+pt	arguir	subjuntivo	futuro	first	quando eu arguir	quando tu arguires	quando ele arguir	quando ela arguir	quando você arguir	quando nós arguirmos	quando vós arguirdes	quando eles arguirem	quando elas arguirem	quando vocês arguirem
+pt	arguir	infinitivo	infinitivo-pessoal-presente	first	por arguir eu	por arguíres tu	por arguir ele	por arguir ela	por arguir você	por arguirmos nós	por arguirdes vós	por arguírem eles	por arguírem elas	por arguírem vocês
+pt	arguir	imperativo	afirmativo	first	-	argúi tu	argua você	arguamos nós	arguí vós	arguam vocês
+ro	avea	indicativ	perfect-simplu	first	eu avui	tu avuși	el avu	ea avu	noi avurăm	voi avurăţi	ei avură	ele avură
+ro	avea	indicativ	perfect-compus	first	eu am avut	tu ai avut	el a avut	ea a avut	noi am avut	voi aţi avut	ei au avut	ele au avut
+ro	avea	indicativ	mai-mult-ca-perfect	first	eu avusem	tu avuseși	el avuse	ea avuse	noi avuserăm	voi avuserăţi	ei avuseră	ele avuseră
+ro	face	indicativ	prezent	first	eu fac	tu faci	el face	ea face	noi facem	voi faceţi	ei fac	ele fac
+ro	face	indicativ	imperfect	first	eu făceam	tu făceai	el făcea	ea făcea	noi făceam	voi făceaţi	ei făceau	ele făceau
+ro	face	indicativ	perfect-simplu	first	eu făcui	tu făcuși	el făcu	ea făcu	noi făcurăm	voi făcurăţi	ei făcură	ele făcură
+ro	face	indicativ	viitor-1	first	eu voi face	tu vei face	el va face	ea va face	noi vom face	voi veţi face	ei vor face	ele vor face
+ro	face	indicativ	viitor-2	first	eu voi fi făcut	tu vei fi făcut	el va fi făcut	ea va fi făcut	noi vom fi făcut	voi veţi fi făcut	ei vor fi făcut	ele vor fi făcut
+ro	face	conjunctiv	prezent	first	eu să fac	tu să faci	el să facă	ea să facă	noi să facem	voi să faceţi	ei să facă	ele să facă
+ro	face	conjunctiv	perfect	first	eu să fi făcut	tu să fi făcut	el să fi făcut	ea să fi făcut	noi să fi făcut	voi să fi făcut	ei să fi făcut	ele să fi făcut
+ro	face	condițional	perfect	first	eu aş fi făcut	tu ai fi făcut	el ar fi făcut	ea ar fi făcut	noi am fi făcut	voi aţi fi făcut	ei ar fi făcut	ele ar fi făcut
+ro	face	indicativ	viitor-1-popular	first	eu o să fac	tu o să faci	el o să facă	ea o să facă	noi o să facem	voi o să faceţi	ei o să facă	ele o să facă
+ro	face	indicativ	viitor-2-popular	first	eu am să fi făcut	tu ai să fi făcut	el are să fi făcut	ea are să fi făcut	noi avem să fi făcut	voi aveţi să fi făcut	ei au să fi făcut	ele au să fi făcut
+ro	avea	conjunctiv	prezent	first	eu să am	tu să ai	el să aibă	ea să aibă	noi să avem	voi să aveţi	ei să aibă	ele să aibă
+ro	avea	condițional	prezent	first	eu aş avea	tu ai avea	el ar avea	ea ar avea	noi am avea	voi aţi avea	ei ar avea	ele ar avea
+ro	avea	condițional	perfect	first	eu aş fi avut	tu ai fi avut	el ar fi avut	ea ar fi avut	noi am fi avut	voi aţi fi avut	ei ar fi avut	ele ar fi avut
