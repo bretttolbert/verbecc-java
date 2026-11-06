@@ -13,7 +13,7 @@ outside the JDK, no models, and no Python process or installation is required.
 
 Install a JDK 25 and set `JAVA_HOME` if necessary. The checked-in Gradle 9.2.1
 wrapper downloads its checksum-verified distribution on first use; a system
-Gradle installation is not needed. Build scripts use the Groovy DSL.
+Gradle installation is not needed. Build scripts use the Kotlin DSL.
 
 ```sh
 ./gradlew build
