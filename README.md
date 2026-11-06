@@ -1,5 +1,7 @@
 # verbecc-java
 
+[![Java CI](https://github.com/bretttolbert/verbecc-java/actions/workflows/ci.yml/badge.svg)](https://github.com/bretttolbert/verbecc-java/actions/workflows/ci.yml)
+
 A Java 25 rewrite of the XML-backed, non-ML conjugation core of
 [Verbecc](https://github.com/bretttolbert/verbecc).
 
@@ -22,6 +24,17 @@ On Windows, use `gradlew.bat build`.
 The build produces the library, sources, and Javadoc JARs in `build/libs/`.
 JUnit is a test-only dependency. The library JAR includes all twelve original
 XML data files and the applicable license notices.
+
+### GitHub Actions
+
+[Java CI](.github/workflows/ci.yml) runs on pushes, pull requests, and manual
+dispatches. It uses Temurin JDK 25 and the Gradle wrapper to run
+`./gradlew clean build --no-daemon`, covering compilation, tests, Javadocs, and
+JAR packaging. Gradle setup caches build dependencies and validates the wrapper.
+
+Workflow runs retain test reports (including on build failure) and, after a
+successful build, the library, sources, and Javadoc JARs as downloadable
+artifacts for 14 days. CI does not publish releases or require repository secrets.
 
 ## Usage
 
